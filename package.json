@@ -1,0 +1,22 @@
+{
+  "name": "cse341project",
+  "version": "1.0.0",
+  "description": "My first CSE341 project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivineProjects/CSE341project.git"
+  },
+  "author": "Divine Jigu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivineProjects/CSE341project/issues"
+  },
+  "homepage": "https://github.com/DivineProjects/CSE341project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
